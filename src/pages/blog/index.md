@@ -5,8 +5,6 @@ sections:
     title: Blog Page
     align: center
     subtitle: Sub-title here
-  - type: blog_feed_section
-    show_recent: false
   - title: lorem-ipsum
     content: >-
       ## Lorem ipsum
@@ -20,6 +18,8 @@ sections:
 
       - dolor sit amet
     type: content_section
+  - type: blog_feed_section
+    show_recent: false
 seo:
   title: Blog
   description: This is the blog page
