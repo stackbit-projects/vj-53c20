@@ -47,6 +47,8 @@ Utrum igitur tibi litteram videor an totas paginas commovere? Potius inflammat, 
 Nemo nostrum istius generis asotos iucunde putat vivere.
 Est enim tanti philosophi tamque nobilis audacter sua decreta defendere. Sed eum qui audiebant, quoad poterant, defendebant sententiam suam. Atqui, inquam, Cato, si istud optinueris, traducas me ad te totum licebit. Quam ob rem tandem, inquit, non satisfacit? Vestri haec verecundius, illi fortasse constantius. Quorum sine causa fieri nihil putandum est. Non modo carum sibi quemque, verum etiam vehementer carum esse? Nemo nostrum istius generis asotos iucunde putat vivere.
 
+![](images/RACDS.jpg)
+
 Expressa vero in iis aetatibus, quae iam confirmatae sunt.
 Ne amores quidem sanctos a sapiente alienos esse arbitrantur. Quid enim de amicitia statueris utilitatis causa expetenda vides. Nihil acciderat ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat. Quid enim possumus hoc agere divinius? Dic in quovis conventu te omnia facere, ne doleas. Omnes enim iucundum motum, quo sensus hilaretur. Hoc loco discipulos quaerere videtur, ut, qui asoti esse velint, philosophi ante fiant. Hoc loco tenere se Triarius non potuit. Nunc haec primum fortasse audientis servire debemus. Sin dicit obscurari quaedam nec apparere, quia valde parva sint, nos quoque concedimus; Isto modo ne improbos quidem, si essent boni viri. Quid censes in Latino fore?
 
