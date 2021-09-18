@@ -5,8 +5,7 @@ sections:
     title: Blog Page
     align: center
     subtitle: Sub-title here
-  - title: Some info here man
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
