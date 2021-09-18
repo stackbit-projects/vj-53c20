@@ -4,6 +4,7 @@ sections:
   - type: hero_section
     title: Blog Page
     align: center
+    image: images/RACDS.jpg
   - type: blog_feed_section
     show_recent: false
 seo:
