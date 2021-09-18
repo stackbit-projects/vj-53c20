@@ -2,7 +2,7 @@
 title: Blog
 sections:
   - type: hero_section
-    title: Blog
+    title: Blog Page
     align: center
   - type: blog_feed_section
     show_recent: false
